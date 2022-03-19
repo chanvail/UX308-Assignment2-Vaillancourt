@@ -1,0 +1,27 @@
+{
+  "name": "Chantal Vaillancourt Resume",
+  "short_name": "Chantal Vaillancourt",
+  "icons": [
+    {
+      "src": "CMYK192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "CMYK512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "CMYK196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
